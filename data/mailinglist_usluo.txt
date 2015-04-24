@@ -1,0 +1,893 @@
+Email, FullName, Institute
+msa90@ALBANY.EDU, NoNameAvailable
+berger@ANL.GOV, NoNameAvailable
+gemmeren@ANL.GOV, NoNameAvailable
+lecompte@ANL.GOV, NoNameAvailable
+ljn@ANL.GOV, NoNameAvailable
+lprice@ANL.GOV, NoNameAvailable
+proudfoot@ANL.GOV, NoNameAvailable
+reb@ANL.GOV, NoNameAvailable
+aghosh@BNL.GOV, NoNameAvailable
+begel@BNL.GOV, NoNameAvailable
+chc@BNL.GOV, NoNameAvailable
+damazio@BNL.GOV, NoNameAvailable
+dladams@BNL.GOV, NoNameAvailable
+feierabe@BNL.GOV, NoNameAvailable
+gordon@BNL.GOV, NoNameAvailable
+hma@BNL.GOV, NoNameAvailable
+jhlee@BNL.GOV, NoNameAvailable
+levine@BNL.GOV, NoNameAvailable
+Lissauer@BNL.GOV, NoNameAvailable
+Mark.Baker@BNL.GOV, NoNameAvailable
+mbai@BNL.GOV, NoNameAvailable
+muratore@BNL.GOV, NoNameAvailable
+panitkin@BNL.GOV, NoNameAvailable
+peggs@BNL.GOV, NoNameAvailable
+penka@BNL.GOV, NoNameAvailable
+peter.steinberg@BNL.GOV, NoNameAvailable
+rcalaga@BNL.GOV, NoNameAvailable
+redlinger@BNL.GOV, NoNameAvailable
+saroj@BNL.GOV, NoNameAvailable
+silvermy@BNL.GOV, NoNameAvailable
+snyder@BNL.GOV, NoNameAvailable
+srinir@BNL.GOV, NoNameAvailable
+takai@BNL.GOV, NoNameAvailable
+videbaek@BNL.GOV, NoNameAvailable
+wanderer@BNL.GOV, NoNameAvailable
+Wolfram.Fischer@BNL.GOV, NoNameAvailable
+xzhao@BNL.GOV, NoNameAvailable
+zhliu@BNL.GOV, NoNameAvailable
+bensinger@BRANDEIS.EDU, NoNameAvailable
+blocker@BRANDEIS.EDU, NoNameAvailable
+wellenstein@BRANDEIS.EDU, NoNameAvailable
+cutts@BROWN.EDU, NoNameAvailable
+jmbutler@BU.EDU, NoNameAvailable
+rohlf@BU.EDU, NoNameAvailable
+shank@BU.EDU, NoNameAvailable
+youssef@BU.EDU, NoNameAvailable
+avto@BUFFALO.EDU, NoNameAvailable
+jrlove@BUPHY.BU.EDU, NoNameAvailable
+jklay@CALPOLY.EDU, NoNameAvailable
+ajw@CALTECH.EDU, NoNameAvailable
+galvez@CALTECH.EDU, NoNameAvailable
+Julian.Bunn@CALTECH.EDU, NoNameAvailable
+adam.yurkewicz@CERN.CH, NoNameAvailable
+adriaan.heering@CERN.CH, NoNameAvailable
+alan.litke@CERN.CH, NoNameAvailable
+Alden.Stradling@CERN.CH, NoNameAvailable
+alexei.klimentov@CERN.CH, NoNameAvailable
+alexi.mestvirishvili@CERN.CH, NoNameAvailable
+Arno.Heister@CERN.CH, NoNameAvailable
+Ashfaq.Ahmad@CERN.CH, NoNameAvailable
+Belen.Salvachua@CERN.CH, NoNameAvailable
+claire.lee@CERN.CH, NoNameAvailable
+David.Stickland@CERN.CH, NoNameAvailable
+demers@CERN.CH, NoNameAvailable
+Dragoslav.Lazic@CERN.CH, NoNameAvailable
+Elizabeth.Hines@CERN.CH, NoNameAvailable
+emily.thompson@CERN.CH, NoNameAvailable
+Eric.Feng@CERN.CH, NoNameAvailable
+ferhat.ozok@CERN.CH, NoNameAvailable
+francesco.spano@CERN.CH, NoNameAvailable
+frank.geurts@CERN.CH, NoNameAvailable
+freya.blekman@CERN.CH, NoNameAvailable
+Gabriella.Pasztor@CERN.CH, NoNameAvailable
+Geng-Yuan.Jeng@CERN.CH, NoNameAvailable
+giovanni.franzoni@CERN.CH, NoNameAvailable
+Heather.Gray@CERN.CH, NoNameAvailable
+Iosif.Legrand@CERN.CH, NoNameAvailable
+Jean-Pierre.Merlo@CERN.CH, NoNameAvailable
+Jessica.Metcalfe@CERN.CH, NoNameAvailable
+jlima@CERN.CH, NoNameAvailable
+joseph.incandela@CERN.CH, NoNameAvailable
+kerem.cankocak@CERN.CH, NoNameAvailable
+kgrimm@CERN.CH, NoNameAvailable
+Marcin.Nowak@CERN.CH, NoNameAvailable
+Moustapha.Thioye@CERN.CH, NoNameAvailable
+muhammad.saleem@CERN.CH, NoNameAvailable
+nancy.marinelli@CERN.CH, NoNameAvailable
+Nectarios.Benekos@CERN.CH, NoNameAvailable
+ning.zhou@CERN.CH, NoNameAvailable
+pauline.gagnon@CERN.CH, NoNameAvailable
+Petra.Merkel@CERN.CH, NoNameAvailable
+Reiner.Hauser@CERN.CH, NoNameAvailable
+Richard.Cavanaugh@CERN.CH, NoNameAvailable
+Samim.erhan@CERN.CH, NoNameAvailable
+serguei.baranov@CERN.CH, NoNameAvailable
+Shahzad.Muzaffar@CERN.CH, NoNameAvailable
+Sharon.Hagopian@CERN.CH, NoNameAvailable
+Sofia.Chouridou@CERN.CH, NoNameAvailable
+stephane.fartoukh@CERN.CH, NoNameAvailable
+stephen.reucroft@CERN.CH, NoNameAvailable
+Stoyan.Stoynev@CERN.CH, NoNameAvailable
+Timothy.Cox@CERN.CH, NoNameAvailable
+Traudl.Hansl-Kozanecki@CERN.CH, NoNameAvailable
+Trevor.Vickey@CERN.CH, NoNameAvailable
+Valeri.Andreev@CERN.CH, NoNameAvailable
+walter.lampl@CERN.CH, NoNameAvailable
+walter.scandale@CERN.CH, NoNameAvailable
+Yuri.Ermoline@CERN.CH, NoNameAvailable
+zhengguo.zhao@CERN.CH, NoNameAvailable
+eduardo@CHARMA.UPRM.EDU, NoNameAvailable
+russ@CMPHYS.PHYS.CMU.EDU, NoNameAvailable
+paulini@CMU.EDU, NoNameAvailable
+John.P.Cumalat@COLORADO.EDU, NoNameAvailable
+Kevin.Stenson@COLORADO.EDU, NoNameAvailable
+jmt275@CORNELL.EDU, NoNameAvailable
+jpa6@CORNELL.EDU, NoNameAvailable
+pw94@CORNELL.EDU, NoNameAvailable
+mcherney@CREIGHTON.EDU, NoNameAvailable
+uriel@CUHEP.COLORADO.EDU, NoNameAvailable
+morii@FAS.HARVARD.EDU, NoNameAvailable
+baarmand@FIT.EDU, NoNameAvailable
+hohlmann@FIT.EDU, NoNameAvailable
+jrodrig@FIU.EDU, NoNameAvailable
+markowit@FIU.EDU, NoNameAvailable
+ahahn@FNAL.GOV, NoNameAvailable
+angel@FNAL.GOV, NoNameAvailable
+avdhesh@FNAL.GOV, NoNameAvailable
+bakken@FNAL.GOV, NoNameAvailable
+barberis@FNAL.GOV, NoNameAvailable
+bauerdick@FNAL.GOV, NoNameAvailable
+berryhil@FNAL.GOV, NoNameAvailable
+bhatti@FNAL.GOV, NoNameAvailable
+bjk@FNAL.GOV, NoNameAvailable
+bossert@FNAL.GOV, NoNameAvailable
+burkett@FNAL.GOV, NoNameAvailable
+butler@FNAL.GOV, NoNameAvailable
+Capista@FNAL.GOV, NoNameAvailable
+caroline@FNAL.GOV, NoNameAvailable
+cheung@FNAL.GOV, NoNameAvailable
+chlebana@FNAL.GOV, NoNameAvailable
+demarteau@FNAL.GOV, NoNameAvailable
+dgreen@FNAL.GOV, NoNameAvailable
+dmason@FNAL.GOV, NoNameAvailable
+duggan@FNAL.GOV, Daniel Duggan
+dwd@FNAL.GOV, NoNameAvailable
+eads@FNAL.GOV, NoNameAvailable
+elis@FNAL.GOV, NoNameAvailable
+eusebi@FNAL.GOV, NoNameAvailable
+ewv@FNAL.GOV, NoNameAvailable
+fehers@FNAL.GOV, NoNameAvailable
+freeman@FNAL.GOV, NoNameAvailable
+gaines@FNAL.GOV, NoNameAvailable
+giorgioa@FNAL.GOV, NoNameAvailable
+gorelov@FNAL.GOV, NoNameAvailable
+goshaw@FNAL.GOV, NoNameAvailable
+gutsche@FNAL.GOV, NoNameAvailable
+harms@FNAL.GOV, NoNameAvailable
+iashvili@FNAL.GOV, NoNameAvailable
+ifisk@FNAL.GOV, NoNameAvailable
+ikfuric@FNAL.GOV, NoNameAvailable
+jameseb@FNAL.GOV, NoNameAvailable
+jaws@FNAL.GOV, NoNameAvailable
+JJohnstone@FNAL.GOV, NoNameAvailable
+joshi@FNAL.GOV, NoNameAvailable
+klima@FNAL.GOV, NoNameAvailable
+lamm@FNAL.GOV, NoNameAvailable
+lenny@FNAL.GOV, NoNameAvailable
+lima@FNAL.GOV, NoNameAvailable
+lincoln@FNAL.GOV, NoNameAvailable
+maeshima@FNAL.GOV, NoNameAvailable
+malik@FNAL.GOV, NoNameAvailable
+marek@FNAL.GOV, NoNameAvailable
+mattson@FNAL.GOV, NoNameAvailable
+mcbride@FNAL.GOV, NoNameAvailable
+mccrory@FNAL.GOV, NoNameAvailable
+mendez@FNAL.GOV, NoNameAvailable
+mokhov@FNAL.GOV, NoNameAvailable
+mrenna@FNAL.GOV, NoNameAvailable
+neeti@FNAL.GOV, NoNameAvailable
+nobrega@FNAL.GOV, NoNameAvailable
+odell@FNAL.GOV, NoNameAvailable
+pasquin@FNAL.GOV, NoNameAvailable
+ptan@FNAL.GOV, NoNameAvailable
+pushpa@FNAL.GOV, NoNameAvailable
+qzli@FNAL.GOV, NoNameAvailable
+rabehl@FNAL.GOV, NoNameAvailable
+rharris@FNAL.GOV, NoNameAvailable
+Roser@FNAL.GOV, NoNameAvailable
+ruth@FNAL.GOV, NoNameAvailable
+rvidal@FNAL.GOV, NoNameAvailable
+safonov@FNAL.GOV, NoNameAvailable
+selcuk@FNAL.GOV, NoNameAvailable
+sexton@FNAL.GOV, NoNameAvailable
+spalding@FNAL.GOV, NoNameAvailable
+strait@FNAL.GOV, NoNameAvailable
+sunanda@FNAL.GOV, NoNameAvailable
+syphers@FNAL.GOV, NoNameAvailable
+teren@FNAL.GOV, NoNameAvailable
+tka@FNAL.GOV, NoNameAvailable
+Tka@FNAL.GOV, NoNameAvailable
+tsen@FNAL.GOV, NoNameAvailable
+veelken@FNAL.GOV, NoNameAvailable
+wenzel@FNAL.GOV, NoNameAvailable
+wmtan@FNAL.GOV, NoNameAvailable
+yik@FNAL.GOV, NoNameAvailable
+ykkim@FNAL.GOV, NoNameAvailable
+yujun@FNAL.GOV, NoNameAvailable
+yumiceva@FNAL.GOV, NoNameAvailable
+yuyi@FNAL.GOV, NoNameAvailable
+zatserkl@FNAL.GOV, NoNameAvailable
+zhenhu@FNAL.GOV, NoNameAvailable
+hellbunny@GMAIL.COM, NoNameAvailable
+ilya.selyuzhenkov@GMAIL.COM, NoNameAvailable
+psubbarao@GMAIL.COM, NoNameAvailable
+taylan.yetkin@GMAIL.COM, NoNameAvailable
+wenaus@GMAIL.COM, NoNameAvailable
+dgu@HEP.ANL.GOV, NoNameAvailable
+chou@HEP.BROWN.EDU, NoNameAvailable
+landsberg@HEP.BROWN.EDU, NoNameAvailable
+narain@HEP.BROWN.EDU, NoNameAvailable
+bornheim@HEP.CALTECH.EDU, NoNameAvailable
+litvin@HEP.CALTECH.EDU, NoNameAvailable
+marat@HEP.CALTECH.EDU, NoNameAvailable
+newman@HEP.CALTECH.EDU, NoNameAvailable
+thomas@HEP.CALTECH.EDU, NoNameAvailable
+zhu@HEP.CALTECH.EDU, NoNameAvailable
+harry@HEP.FSU.EDU, NoNameAvailable
+tadams@HEP.FSU.EDU, NoNameAvailable
+vasken@HEP.FSU.EDU, NoNameAvailable
+shochet@HEP.UCHICAGO.EDU, NoNameAvailable
+claudio@HEP.UCSB.EDU, NoNameAvailable
+rusack@HEP.UMN.EDU, NoNameAvailable
+hance@HEP.UPENN.EDU, NoNameAvailable
+keener@HEP.UPENN.EDU, NoNameAvailable
+rick@HEP.UPENN.EDU, NoNameAvailable
+rreece@HEP.UPENN.EDU, NoNameAvailable
+thomsone@HEP.UPENN.EDU, NoNameAvailable
+ajit@HEP.WISC.EDU, NoNameAvailable
+bachtis@HEP.WISC.EDU, NoNameAvailable
+dasu@HEP.WISC.EDU, NoNameAvailable
+duncan@HEP.WISC.EDU, NoNameAvailable
+kflood@HEP.WISC.EDU, NoNameAvailable
+loveless@HEP.WISC.EDU, NoNameAvailable
+pamc@HEP.WISC.EDU, NoNameAvailable
+reeder@HEP.WISC.EDU, NoNameAvailable
+wsmith@HEP.WISC.EDU, NoNameAvailable
+ferguson@HEPS.PHYS.CMU.EDU, NoNameAvailable
+vogel@HEPS.PHYS.CMU.EDU, NoNameAvailable
+slee@HIGHENERGY.PHYS.TTU.EDU, NoNameAvailable
+jimc@IASTATE.EDU, NoNameAvailable
+redmount@IASTATE.EDU, NoNameAvailable
+msn@ILLINOIS.EDU, NoNameAvailable
+hgevans@INDIANA.EDU, NoNameAvailable
+johnnyp@INDIANA.EDU, NoNameAvailable
+luehring@INDIANA.EDU, NoNameAvailable
+ogren@INDIANA.EDU, NoNameAvailable
+rvankoot@INDIANA.EDU, NoNameAvailable
+bab@JHU.EDU, NoNameAvailable
+bjb@JHU.EDU, NoNameAvailable
+morris@JHU.EDU, NoNameAvailable
+keane@KENT.EDU, NoNameAvailable
+tbolton@KSU.EDU, NoNameAvailable
+abean@KU.EDU, NoNameAvailable
+baringer@KU.EDU, NoNameAvailable
+mjmurray@KU.EDU, NoNameAvailable
+anothertest@LATBAUERDICK.DE, NoNameAvailable
+test2@LATBAUERDICK.DE, NoNameAvailable
+abgaltieri@LBL.GOV, NoNameAvailable
+admcinturff@LBL.GOV, NoNameAvailable
+adMcinturff@LBL.GOV, NoNameAvailable
+barnett@LBL.GOV, NoNameAvailable
+bheheinemann@LBL.GOV, NoNameAvailable
+einsweiler@LBL.GOV, NoNameAvailable
+JBeringer@LBL.GOV, NoNameAvailable
+JERasson@LBL.GOV, NoNameAvailable
+jerasson@LBL.GOV, NoNameAvailable
+jlvay@LBL.GOV, NoNameAvailable
+mafurman@LBL.GOV, NoNameAvailable
+MGGilchriese@LBL.GOV, NoNameAvailable
+mgs@LBL.GOV, NoNameAvailable
+pcalafiura@LBL.GOV, NoNameAvailable
+pmjacobs@LBL.GOV, NoNameAvailable
+RJMadaras@LBL.GOV, NoNameAvailable
+rncahn@LBL.GOV, NoNameAvailable
+sagourlay@LBL.GOV, NoNameAvailable
+sdesantis@LBL.GOV, NoNameAvailable
+siegrist@LBL.GOV, NoNameAvailable
+s_caspi@LBL.GOV, NoNameAvailable
+TJSymons@LBL.GOV, NoNameAvailable
+WLavrijsen@LBL.GOV, NoNameAvailable
+wmyao@LBL.GOV, NoNameAvailable
+WMYAO@LBL.GOV, NoNameAvailable
+ryd@LEPP.CORNELL.EDU, NoNameAvailable
+fet@LNS.MIT.EDU, NoNameAvailable
+anne@LOTUS.PHYS.NORTHWESTERN.EDU, NoNameAvailable
+kubik@LOTUS.PHYS.NORTHWESTERN.EDU, NoNameAvailable
+mvelasco@LOTUS.PHYS.NORTHWESTERN.EDU, NoNameAvailable
+schmittm@LOTUS.PHYS.NORTHWESTERN.EDU, NoNameAvailable
+abdullin@MAIL.CERN.CH, NoNameAvailable
+bmellado@MAIL.CERN.CH, NoNameAvailable
+sedward@MAIL.CERN.CH, NoNameAvailable
+tsulaia@MAIL.CERN.CH, NoNameAvailable
+bkh@MAIL.LEPP.CORNELL.EDU, NoNameAvailable
+dlk@MAIL.LEPP.CORNELL.EDU, NoNameAvailable
+lkg@MAIL.LEPP.CORNELL.EDU, NoNameAvailable
+ritchie@MAIL.LEPP.CORNELL.EDU, NoNameAvailable
+nahn@MIT.EDU, NoNameAvailable
+paus@MIT.EDU, NoNameAvailable
+wyslouch@MIT.EDU, NoNameAvailable
+durkin@MPS.OHIO-STATE.EDU, NoNameAvailable
+gan@MPS.OHIO-STATE.EDU, NoNameAvailable
+humanic@MPS.OHIO-STATE.EDU, NoNameAvailable
+kagan@MPS.OHIO-STATE.EDU, NoNameAvailable
+esimmons@MSU.EDU, NoNameAvailable
+huston@MSU.EDU, NoNameAvailable
+cjessop@ND.EDU, NoNameAvailable
+karmgard.1@ND.EDU, NoNameAvailable
+klannon@ND.EDU, NoNameAvailable
+mwayne@ND.EDU, NoNameAvailable
+e.barberis@NEU.EDU, NoNameAvailable
+g.alverson@NEU.EDU, NoNameAvailable
+gusbroo@NEVIS.COLUMBIA.EDU, NoNameAvailable
+parsons@NEVIS.COLUMBIA.EDU, NoNameAvailable
+pdebbins@NEWTON.PHYSICS.UIOWA.EDU, NoNameAvailable
+hs@NHN.OU.EDU, NoNameAvailable
+snow@NHN.OU.EDU, NoNameAvailable
+strauss@NHN.OU.EDU, NoNameAvailable
+dhiman@NICADD.NIU.EDU, NoNameAvailable
+zeller@NSCL.MSU.EDU, NoNameAvailable
+allen.mincer@NYU.EDU, NoNameAvailable
+boyd@OU.EDU, NoNameAvailable
+pgutierrez@OU.EDU, NoNameAvailable
+pskubic@OU.EDU, NoNameAvailable
+abolins@PA.MSU.EDU, NoNameAvailable
+brock@PA.MSU.EDU, NoNameAvailable
+linnemann@PA.MSU.EDU, NoNameAvailable
+pope@PA.MSU.EDU, NoNameAvailable
+schwier@PA.MSU.EDU, NoNameAvailable
+bodek@PAS.ROCHESTER.EDU, NoNameAvailable
+ferbel@PAS.ROCHESTER.EDU, NoNameAvailable
+meliss@PAS.ROCHESTER.EDU, NoNameAvailable
+slattery@PAS.ROCHESTER.EDU, NoNameAvailable
+benjamin@PHY.DUKE.EDU, NoNameAvailable
+fowler@PHY.DUKE.EDU, NoNameAvailable
+goshaw@PHY.DUKE.EDU, NoNameAvailable
+kotwal@PHY.DUKE.EDU, NoNameAvailable
+cremaldi@PHY.OLEMISS.EDU, NoNameAvailable
+summers@PHY.OLEMISS.EDU, NoNameAvailable
+jwang@PHY.SYR.EDU, NoNameAvailable
+sblusk@PHY.SYR.EDU, NoNameAvailable
+snisar@PHY.SYR.EDU, NoNameAvailable
+greenw@PHYS.LATECH.EDU, NoNameAvailable
+avery@PHYS.UFL.EDU, NoNameAvailable
+bourilkov@PHYS.UFL.EDU, NoNameAvailable
+korytov@PHYS.UFL.EDU, NoNameAvailable
+mitselmakher@PHYS.UFL.EDU, NoNameAvailable
+seidel@PHYS.UNM.EDU, NoNameAvailable
+elliott@PHYSICS.ARIZONA.EDU, NoNameAvailable
+johns@PHYSICS.ARIZONA.EDU, NoNameAvailable
+lampen@PHYSICS.ARIZONA.EDU, NoNameAvailable
+loch@PHYSICS.ARIZONA.EDU, NoNameAvailable
+rutherfo@PHYSICS.ARIZONA.EDU, NoNameAvailable
+shupe@PHYSICS.ARIZONA.EDU, NoNameAvailable
+varnes@PHYSICS.ARIZONA.EDU, NoNameAvailable
+xiaowen@PHYSICS.ARIZONA.EDU, NoNameAvailable
+jake@PHYSICS.BERKELEY.EDU, NoNameAvailable
+guimaraes@PHYSICS.HARVARD.EDU, NoNameAvailable
+barnes@PHYSICS.PURDUE.EDU, NoNameAvailable
+gutay@PHYSICS.PURDUE.EDU, NoNameAvailable
+eppley@PHYSICS.RICE.EDU, NoNameAvailable
+somalwar@PHYSICS.RUTGERS.EDU, NoNameAvailable
+steves@PHYSICS.RUTGERS.EDU, NoNameAvailable
+ryszard@PHYSICS.SMU.EDU, NoNameAvailable
+yejb@PHYSICS.SMU.EDU, NoNameAvailable
+cjen@PHYSICS.SYR.EDU, NoNameAvailable
+ibelyaev@PHYSICS.SYR.EDU, NoNameAvailable
+lzhang@PHYSICS.SYR.EDU, NoNameAvailable
+raym@PHYSICS.SYR.EDU, NoNameAvailable
+tomasz@PHYSICS.SYR.EDU, NoNameAvailable
+breedon@PHYSICS.UCDAVIS.EDU, NoNameAvailable
+chertok@PHYSICS.UCDAVIS.EDU, NoNameAvailable
+conway@PHYSICS.UCDAVIS.EDU, NoNameAvailable
+erbacher@PHYSICS.UCDAVIS.EDU, NoNameAvailable
+friis@PHYSICS.UCDAVIS.EDU, NoNameAvailable
+ko@PHYSICS.UCDAVIS.EDU, NoNameAvailable
+lander@PHYSICS.UCDAVIS.EDU, NoNameAvailable
+mani@PHYSICS.UCDAVIS.EDU, NoNameAvailable
+pellett@PHYSICS.UCDAVIS.EDU, NoNameAvailable
+cousins@PHYSICS.UCLA.EDU, NoNameAvailable
+hauser@PHYSICS.UCLA.EDU, NoNameAvailable
+tucker@PHYSICS.UCLA.EDU, NoNameAvailable
+dmytro@PHYSICS.UCSB.EDU, NoNameAvailable
+stuart@PHYSICS.UCSB.EDU, NoNameAvailable
+mlebourgeois@PHYSICS.UCSD.EDU, NoNameAvailable
+bbrau@PHYSICS.UMASS.EDU, NoNameAvailable
+carlod@PHYSICS.UMASS.EDU, NoNameAvailable
+willocq@PHYSICS.UMASS.EDU, NoNameAvailable
+cmarkert@PHYSICS.UTEXAS.EDU, NoNameAvailable
+hoffmann@PHYSICS.UTEXAS.EDU, NoNameAvailable
+bellwied@PHYSICS.WAYNE.EDU, NoNameAvailable
+pavlinov@PHYSICS.WAYNE.EDU, NoNameAvailable
+pruneau@PHYSICS.WAYNE.EDU, NoNameAvailable
+cleland@PITT.EDU, NoNameAvailable
+VPS3@PITT.EDU, NoNameAvailable
+heyburn@PIZERO.COLORADO.EDU, NoNameAvailable
+stevew@PIZERO.COLORADO.EDU, NoNameAvailable
+piroue@PRINCETON.EDU, NoNameAvailable
+valerieh@PRINCETON.EDU, NoNameAvailable
+arndt@PURDUE.EDU, NoNameAvailable
+bortolet@PURDUE.EDU, NoNameAvailable
+millerdh@PURDUE.EDU, NoNameAvailable
+neumeist@PURDUE.EDU, NoNameAvailable
+shipsey@PURDUE.EDU, NoNameAvailable
+padley@RICE.EDU, NoNameAvailable
+dino@ROCKEFELLER.EDU, NoNameAvailable
+johnda@SAS.UPENN.EDU, NoNameAvailable
+olivito@SAS.UPENN.EDU, NoNameAvailable
+dmw20@SBCGLOBAL.NET, NoNameAvailable
+engelmann@SBHEP.PHYSICS.SUNYSB.EDU, NoNameAvailable
+purohit@SC.EDU, NoNameAvailable
+bruce.strauss@SCIENCE.DOE.GOV, NoNameAvailable
+abs@SCIPP.UCSC.EDU, NoNameAvailable
+grillo@SCIPP.UCSC.EDU, NoNameAvailable
+haber@SCIPP.UCSC.EDU, NoNameAvailable
+hartmut@SCIPP.UCSC.EDU, NoNameAvailable
+nielsen@SCIPP.UCSC.EDU, NoNameAvailable
+schumm@SCIPP.UCSC.EDU, NoNameAvailable
+afisher@SLAC.STANFORD.EDU, NoNameAvailable
+hewett@SLAC.STANFORD.EDU, NoNameAvailable
+mpeskin@SLAC.STANFORD.EDU, NoNameAvailable
+richp@SLAC.STANFORD.EDU, NoNameAvailable
+rizzo@SLAC.STANFORD.EDU, NoNameAvailable
+sher@SLAC.STANFORD.EDU, NoNameAvailable
+tor@SLAC.STANFORD.EDU, NoNameAvailable
+twmark@SLAC.STANFORD.EDU, NoNameAvailable
+uli@SLAC.STANFORD.EDU, NoNameAvailable
+young@SLAC.STANFORD.EDU, NoNameAvailable
+olness@SMU.EDU, NoNameAvailable
+margetis@STAR.PHYSICS.KENT.EDU, NoNameAvailable
+michael.rijssenbeek@STONYBROOK.EDU, NoNameAvailable
+robert.mccarthy@STONYBROOK.EDU, NoNameAvailable
+hliu012@STUDENT.UCR.EDU, NoNameAvailable
+t-kamon@TAMU.EDU, NoNameAvailable
+Alan.Sill@TTU.EDU, NoNameAvailable
+micah.gatz@TTU.EDU, NoNameAvailable
+Nural.Akchurin@TTU.EDU, NoNameAvailable
+wigmans@TTU.EDU, NoNameAvailable
+anapier@TUFTS.EDU, NoNameAvailable
+tburnett@U.WASHINGTON.EDU, NoNameAvailable
+ackopecky@UCDAVIS.EDU, NoNameAvailable
+imai@UCHICAGO.EDU, NoNameAvailable
+m-oreglia@UCHICAGO.EDU, NoNameAvailable
+merritt@UCHICAGO.EDU, NoNameAvailable
+rwg@UCHICAGO.EDU, NoNameAvailable
+daniel@UCI.EDU, NoNameAvailable
+bill.gary@UCR.EDU, NoNameAvailable
+Gail.Hanson@UCR.EDU, NoNameAvailable
+robert.clare@UCR.EDU, NoNameAvailable
+ayagil@UCSD.EDU, NoNameAvailable
+fkw@UCSD.EDU, NoNameAvailable
+vsharmacms@UCSD.EDU, NoNameAvailable
+mayes@UH.EDU, NoNameAvailable
+pinsky@UH.EDU, NoNameAvailable
+adams@UIC.EDU, NoNameAvailable
+gerber@UIC.EDU, NoNameAvailable
+varelas@UIC.EDU, NoNameAvailable
+anthony-moeller@UIOWA.EDU, NoNameAvailable
+burak-bilki@UIOWA.EDU, NoNameAvailable
+charles-newsom@UIOWA.EDU, NoNameAvailable
+elif-albayrak@UIOWA.EDU, NoNameAvailable
+f-ingram@UIOWA.EDU, NoNameAvailable
+firdevs-duru@UIOWA.EDU, NoNameAvailable
+warren-clarida@UIOWA.EDU, NoNameAvailable
+yasar-onel@UIOWA.EDU, NoNameAvailable
+acortes2@UIUC.EDU, NoNameAvailable
+jcogges2@UIUC.EDU, NoNameAvailable
+serrede@UIUC.EDU, NoNameAvailable
+tml@UIUC.EDU, NoNameAvailable
+drew@UMD.EDU, NoNameAvailable
+eno@UMD.EDU, NoNameAvailable
+hadley@UMD.EDU, NoNameAvailable
+mtonjes@UMD.EDU, NoNameAvailable
+skuja@UMD.EDU, NoNameAvailable
+aww@UMICH.EDU, NoNameAvailable
+daits@UMICH.EDU, NoNameAvailable
+diehl@UMICH.EDU, NoNameAvailable
+smckee@UMICH.EDU, NoNameAvailable
+umjwc@UMICH.EDU, NoNameAvailable
+jmmans@UMN.EDU, NoNameAvailable
+aarond@UNL.EDU, NoNameAvailable
+kenbloom@UNL.EDU, NoNameAvailable
+gsnow@UNLHEP.UNL.EDU, NoNameAvailable
+jimbrau@UOREGON.EDU, NoNameAvailable
+rayfrey@UOREGON.EDU, NoNameAvailable
+awhite@UTA.EDU, NoNameAvailable
+jaehoonyu@UTA.EDU, NoNameAvailable
+nurcan@UTA.EDU, NoNameAvailable
+jhamble1@UTK.EDU, NoNameAvailable
+sorensen@UTK.EDU, NoNameAvailable
+spanier@UTK.EDU, NoNameAvailable
+b.gabella@VANDERBILT.EDU, NoNameAvailable
+paul.sheldon@VANDERBILT.EDU, NoNameAvailable
+bbc2x@VIRGINIA.EDU, NoNameAvailable
+hirosky@VIRGINIA.EDU, NoNameAvailable
+mwa5u@VIRGINIA.EDU, NoNameAvailable
+sergio@VIRGINIA.EDU, NoNameAvailable
+aa7526@WAYNE.EDU, NoNameAvailable
+voloshin@WAYNE.EDU, NoNameAvailable
+samya_zain@YAHOO.COM, NoNameAvailable
+spurlockbarry@YAHOO.COM, NoNameAvailable
+helen.caines@YALE.EDU, NoNameAvailable
+john.harris@YALE.EDU, NoNameAvailable
+acosta@PHYS.UFL.EDU, Darin Acosta
+jahreda@GMAIL.COM, Jahred Adelman
+salvatore.aiola@YALE.EDU, Salvatore Aiola
+omanghel@FNAL.GOV, Ioana Anghel
+apresyan@FNAL.GOV, Apresyan Artur
+artusomarina@GMAIL.COM, Marina Artuso
+zhangjl@ANL.GOV, NoNameAvailable
+sciolla@BRANDEIS.EDU, NoNameAvailable
+ulrich_heintz@BROWN.EDU, NoNameAvailable
+tulika@BU.EDU, NoNameAvailable
+iashvili@BUFFALO.EDU, NoNameAvailable
+yongy@CALTECH.EDU, NoNameAvailable
+aleister@CERN.CH, NoNameAvailable
+alex.mott@CERN.CH, NoNameAvailable
+alexander.paramonov@CERN.CH, NoNameAvailable
+alexey.ferapontov@CERN.CH, NoNameAvailable
+alina.radu@CERN.CH, NoNameAvailable
+aram.avetisyan@CERN.CH, NoNameAvailable
+bolla@CERN.CH, NoNameAvailable
+emma.anne.ideal@CERN.CH, NoNameAvailable
+erik.devetak@CERN.CH, NoNameAvailable
+giulio.usai@CERN.CH, NoNameAvailable
+Hideki.Okawa@CERN.CH, NoNameAvailable
+Irene.Vichou@CERN.CH, NoNameAvailable
+john.alison@CERN.CH, NoNameAvailable
+Josh.Bendavid@CERN.CH, NoNameAvailable
+kristina.looper@CERN.CH, NoNameAvailable
+laura.jeanty@CERN.CH, NoNameAvailable
+lawrence.lee.jr@CERN.CH, NoNameAvailable
+Lindsey.Gray@CERN.CH, NoNameAvailable
+miguel.vidal.marono@CERN.CH, NoNameAvailable
+Paul.Nilsson@CERN.CH, NoNameAvailable
+raul.murillo.garcia@CERN.CH, NoNameAvailable
+regina.caputo@CERN.CH, NoNameAvailable
+roberto.rossin@CERN.CH, NoNameAvailable
+sergei@CERN.CH, NoNameAvailable
+Shengquan.Tuo@CERN.CH, NoNameAvailable
+smalik@CERN.CH, NoNameAvailable
+Stefan.Stancu@CERN.CH, NoNameAvailable
+Tai.Sakuma@CERN.CH, NoNameAvailable
+Tobias.Golling@CERN.CH, NoNameAvailable
+valeria.perez.reale@CERN.CH, NoNameAvailable
+venkat.kaushik@CERN.CH, NoNameAvailable
+zaidan@CERN.CH, NoNameAvailable
+eduardo.e.luiggi@COLORADO.EDU, NoNameAvailable
+jt297@CORNELL.EDU, NoNameAvailable
+BjornNilsen@CREIGHTON.EDU, NoNameAvailable
+yogao@CSUFRESNO.EDU, NoNameAvailable
+skhalil@FNAL.GOV, NoNameAvailable
+caleb.lampen@GMAIL.COM, NoNameAvailable
+cherbul@GMAIL.COM, NoNameAvailable
+heesics@GMAIL.COM, NoNameAvailable
+hkalakhety@GMAIL.COM, NoNameAvailable
+mahmood9@GMAIL.COM, NoNameAvailable
+michael.segala@GMAIL.COM, NoNameAvailable
+nareshprabakar@GMAIL.COM, NoNameAvailable
+rashmisarkar3@GMAIL.COM, NoNameAvailable
+saccharomyces.cerevisae@GMAIL.COM, NoNameAvailable
+usluoelections@GMAIL.COM, NoNameAvailable
+Zhe.jia10@GMAIL.COM, NoNameAvailable
+vassilios.vassilakop@HAMPTONU.EDU, NoNameAvailable
+vassilios.vassilakopoulos@HAMPTONU.EDU, NoNameAvailable
+askew@HEP.FSU.EDU, NoNameAvailable
+mdunford@HEP.UCHICAGO.EDU, NoNameAvailable
+tmhong@HEP.UPENN.EDU, NoNameAvailable
+kilie2@ILLINOIS.EDU, NoNameAvailable
+BHEHeinemann@LBL.GOV, NoNameAvailable
+jfarguin@LBL.GOV, NoNameAvailable
+lpchevalier@LBL.GOV, NoNameAvailable
+yyao@LBL.GOV, NoNameAvailable
+jholzbau@MAIL.CERN.CH, NoNameAvailable
+mwill@MIT.EDU, NoNameAvailable
+rolandg@MIT.EDU, NoNameAvailable
+oberlack@MPP.MPG.DE, NoNameAvailable
+marti347@MSU.EDU, NoNameAvailable
+cole@NEVIS.COLUMBIA.EDU, NoNameAvailable
+kcopic@NEVIS.COLUMBIA.EDU, NoNameAvailable
+boyd@NHN.OU.EDU, NoNameAvailable
+readkf@ORNL.GOV, NoNameAvailable
+kass.1@OSU.EDU, NoNameAvailable
+norberg@OU.EDU, NoNameAvailable
+boj@PHY.DUKE.EDU, NoNameAvailable
+finelli@PHY.DUKE.EDU, NoNameAvailable
+kmblack@PHYSICS.BU.EDU, NoNameAvailable
+jeanty@PHYSICS.HARVARD.EDU, NoNameAvailable
+mercurio@PHYSICS.HARVARD.EDU, NoNameAvailable
+zevi@PHYSICS.HARVARD.EDU, NoNameAvailable
+chill@PHYSICS.OSU.EDU, NoNameAvailable
+justing@PHYSICS.SYR.EDU, NoNameAvailable
+pivarski@PHYSICS.TAMU.EDU, NoNameAvailable
+ssinjini@PHYSICS.TAMU.EDU, NoNameAvailable
+cormier@PHYSICS.WAYNE.EDU, NoNameAvailable
+luc.demortier@ROCKEFELLER.EDU, NoNameAvailable
+sch@SLAC.STANFORD.EDU, NoNameAvailable
+stuart@STUART.PHYSICS.UCSB.EDU, NoNameAvailable
+bgui@SYR.EDU, NoNameAvailable
+bkpal@SYR.EDU, NoNameAvailable
+Brian.Meadows@UC.EDU, NoNameAvailable
+ajlankfo@UCI.EDU, NoNameAvailable
+ataffard@UCI.EDU, NoNameAvailable
+schernau@UCI.EDU, NoNameAvailable
+emrah-tiras@UIOWA.EDU, NoNameAvailable
+joe@UTDALLAS.EDU, NoNameAvailable
+mahsan@UTDALLAS.EDU, NoNameAvailable
+imartash@UTK.EDU, NoNameAvailable
+dgp6d@VIRGINIA.EDU, NoNameAvailable
+aglevine@WISC.EDU, NoNameAvailable
+akkruse@WISC.EDU, NoNameAvailable
+tmperry2@WISC.EDU, NoNameAvailable
+badgett@FNAL.GOV, Bill Badgett
+oliver.baker@YALE.EDU, Oliver Keith Baker
+Swagato.Banerjee@CERN.CH, Swagato Banerjee
+rachel.bartek@CERN.CH, Rachel Bartek
+basye@CERN.CH, Austin Thomas Basye
+christopher.bee@STONYBROOK.EDU, Chris Bee
+bellwied@UH.EDU, Rene Bellwied
+Gabriele.Benelli@CERN.CH, Gabriele Benelli
+jose.benitez@CERN.CH, Jose Benitez
+andy@FNAL.GOV, Andrew Beretvas
+clare1@PHYSICS.BU.EDU, Clare Bernard
+c.bertsche@CERN.CH, Callie Bertsche
+david.bertsche@CERN.CH, David Bertsche
+sapta@FNAL.GOV, Saptaparna Bhattacharya
+jbiesiada@LBL.GOV, Jed Biesiada
+bocci@PHY.DUKE.EDU, Andrea Bocci
+aborgia@SYR.EDU, Alessandra Borgia
+sbose@FNAL.GOV, Suvadeep Bose
+boveia@HEP.UCHICAGO.EDU, Antonio Boveia
+thbritto@SYR.EDU, Thomas Britton
+ebrost@UOREGON.EDU, Elizabeth Brost
+rab2221@COLUMBIA.EDU, Rex Brown
+john_brunelle@HARVARD.EDU, John Brunelle
+ingabu@FNAL.GOV, Inga Bucinskaite
+buttinger@BNL.GOV, Will Buttinger
+ryne.carbone@CERN.CH, Ryne Carbone
+caredg@GMAIL.COM, Edgar Carrera, Florida State
+andrew.john.castro@CERN.CH, Andrew Castro
+maria.cepeda@CERN.CH, Maria Cepeda
+bcerio@GMAIL.COM, Ben Cerio
+Otman.Charaf@CERN.CH, Otman Charaf
+sushil@FNAL.GOV, Sushil Singh Chauhan
+norma@HEP.CALTECH.EDU, Norma Chavez
+siinn.che@CERN.CH, Siinn Che
+cchen23@IASTATE.EDU, Chunhui Chen
+taylor@JTCHILDERS.COM, Taylor Childers
+Aecholakian@POST.HARVARD.EDU, Allen Egon Cholakian
+a_ciocio@LBL.GOV, Alessandra Ciocio
+stephen.cole@CERN.CH, Stephen Cole
+owen.colegrove@CERN.CH, Owen Colegrove
+megan.connors@YALE.EDU, Megan Connors
+cooper@FNAL.GOV, William Cooper
+jane.theresa.cummings@CERN.CH, Jane Cummings
+bryan.michael.dahmes@CERN.CH, Bryan Dahmes
+daniel@FNAL.GOV, Elvira Daniel
+sdarmora@UTA.EDU, Smita Darmora
+adavis@CERN.CH, Adam Davis
+kaushik@UTA.EDU, Kaushik De
+dellasta@CERN.CH, Lidia Dell'Asta
+sarah.demers@YALE.EDU, Sarah Demers
+karri.folan.di.petrillo@CERN.CH, Karri Folan DiPetrillo
+james.dolen@GMAIL.COM, James Dolen
+sudong@SLAC.STANFORD.EDU, Su Dong
+cdragoiu@FNAL.GOV, Cosmin Dragoiu
+senka.duric@CERN.CH, Senka Duric
+raymond.ehlers@YALE.EDU, Raymond Ehlers
+john.ellison@UCR.EDU, John Ellison
+jae@ALBANY.EDU, Jesse Ernst
+mernst@BNL.GOV, Michael Ernst
+pieter.everaerts@CERN.CH, Pieter Everaerts
+Dinko.Ferencek@CERN.CH, Dinko Ferencek
+ferguson@CMPHYS.PHYS.CMU.EDU, Tom Ferguson
+fisherw@PA.MSU.EDU, Wade Fisher
+melissa.franklin@CERN.CH, Melissa Franklin
+ikfuric@PHYS.UFL.EDU, Ivan Furic
+paolo.gandini@CERN.CH, Paolo Gandini
+reddy.pratap.gandrajula@CERN.CH, Reddy Pratap Gandrajula
+edmundo.garcia@CSU.EDU, Edmundo Garcia
+ngarelli@SLAC.STANFORD.EDU, Nicoletta Garelli
+pbgeff@CERN.CH, Paul Geffert
+gershtein@PHYSICS.RUTGERS.EDU, Yuri Gershtein
+godshalk@BUFFALO.EDU, Andrew P Godshalk
+steven.goldfarb@CERN.CH, Steven Goldfarb
+jgonski@G.HARVARD.EDU, Julia Gonski
+Loukas.Gouskos@CERN.CH, Loukas Gouskos
+goussiou@UW.EDU, Anna Goussiou
+Norman.Graf@SLAC.STANFORD.EDU, Norman Graf
+julia.ann.gray@CERN.CH, Julia Gray
+gujh@MPS.OHIO-STATE.EDU, Jianhui Gu
+jdhaas@GMAIL.COM, Jeff Haas
+evahal@PHYSICS.RUTGERS.EDU, Eva Halkiadakis
+garabed.halladjian@CERN.CH, Garabed Halladjian
+jyhan@FNAL.GOV, Jiyeon Han
+ahard@CERN.CH, Andrew Straiton Hard
+hard@WISC.EDU, Andrew Hard
+joshua.hardenbrook@CERN.CH, Joshua Hardenbrook
+Kenichi_Hatakeyama@BAYLOR.EDU, Kenichi Hatakeyama, Baylor
+danhayden0@GOOGLEMAIL.COM, Daniel Hayden
+hebda@CERN.CH, Phil Hebda
+jesse.a.heilman@GMAIL.COM, Jesse Alan Heilman
+sheim@CERN.CH, Sarah Heim
+rsheitz2@ILLINOIS.EDU, Robert Heitz
+conor.henderson@UA.EDU, Conor Henderson, Alabama
+anna.henrichs@CERN.CH, Anna Henrichs
+hherde@BRANDEIS.EDU, Hannah Herde
+herndon@HEP.WISC.EDU, Matthew Herndon, Wisconsin
+dhidas@CERN.CH, Dean Hidas
+John.hobbs@STONYBROOK.EDU, John Hobbs
+hofman@UIC.EDU, David Hofman
+cath@FNAL.GOV,  Cathy Newman-Holmes
+whopkins@UOREGON.EDU, Walter Hopkins
+schsu@UW.EDU, Shih-Chieh Hsu
+tote@PHYSICS.RUTGERS.EDU, Elliot Hughes
+huth@PHYSICS.HARVARD.EDU, John Huth
+giakovidis@BNL.GOV, George Iakovidis
+john.stupak@CERN.CH, John Stupak III
+valerio.ippolito@CERN.CH, Valerio Ippolito
+jabeen@FNAL.GOV, Shabnam Jabeen
+vjain@ALBANY.EDU, Vivek Jain
+Dilip.Jana@CERN.CH, Dilip Jana
+dwjang@FNAL.GOV, Dongwook Jang
+sjena@CERN.CH, Satyajit Jena
+sergo@FNAL.GOV, Sergo Jindariani
+Andrew.A.Johnson@COLORADO.EDU, Andrew Johnson
+hjohnstad@ATT.NET, Harald Johnstad
+kzengel@CERN.CH, Keith John Zengel Jr
+npjurik@SYR.EDU, Nathan Jurik
+laser.seymour.kaplan@CERN.CH, Laser Kaplan
+karchin@PHYSICS.WAYNE.EDU, Paul Karchin
+gnn4@CORNELL.EDU, Gala Nicolas Kaufman
+dorian@HEP.CALTECH.EDU, Dorian Kcira
+kehoe@PHYSICS.SMU.EDU, Bob Kehoe
+mkelsey@SYR.EDU, Matthew Kelsey
+ekennedy@CERN.CH, Elizabeth Kennedy
+anders.knospe@CERN.CH, Anders Knospe
+kocian@SLAC.STANFORD.EDU, Martin Kocian
+konigsberg@FNAL.GOV, Jacobo Konigsberg
+Vasiliki.Kouskoura@CERN.CH, Vasiliki Kouskoura
+Tami.Kramer@CERN.CH, Tami Kramer
+ankravch@CERN.CH, Anton Kravchenko
+kkrizka@GMAIL.COM, Karol Krizka
+kroll@HEP.UPENN.EDU, Joseph Kroll
+mkruse@PHY.DUKE.EDU, Mark Kruse
+akuhl@UCSC.EDU, Andrew Kuhl
+ashishk@FNAL.GOV, Ashish Kumar
+lacroix@CERN.CH, Florent Lacroix
+bikashji@GMAIL.COM, Pramod Lamichhane
+slammers@INDIANA.EDU, Sabine Lammers
+armando.lanaro@CERN.CH, Armando Lanaro
+lath@PHYSICS.RUTGERS.EDU, Amit Lath
+CGLeggett@LBL.GOV, Charles Leggett
+nuno.leonardo@CERN.CH, Nuno Leonardo, Purdue
+clester@SAS.UPENN.EDU, Christopher Lester
+anlevin@CERN.CH, Andrew Levin
+dslevin@UMICH.EDU, Daniel S Levin
+Hengne.Li@CERN.CH, Hengne Li
+shuli@PHY.DUKE.EDU, Shu Li
+rateixei@CERN.CH, Rafael Teixeira de Lima
+blindqui@CERN.CH, Brian Lindquist
+lisa@PHYSICS.OSU.EDU, Michael Lisa
+lulu@CERN.CH, Lulu Liu
+liumy871227@GMAIL.COM, Miaoyuan Liu
+longjon@UMICH.EDU, Jonathan Long
+owen.long@UCR.EDU, Owen Long, UC Riverside
+xinchou@UTDALLAS.EDU, Xinchou Lou
+nanlu@UMICH.EDU, Nan Lu
+lykken@FNAL.GOV, Joe Lykken, Fermilab
+smajewsk@UOREGON.EDU, Stephanie Majewski
+richard.majka@YALE.EDU, Richard Majka
+martina.malberti@CERN.CH, Martina Malberti
+usha-mallik@UIOWA.EDU, Usha Mallik
+rocco.mandrysch@CERN.CH, Rocco Mandrysch
+ZLMarshall@LBL.GOV, Zachary Marshall
+cmartin@PHA.JHU.EDU, Christopher B Martin
+a.massironi@NEU.EDU, Andrea Massironi
+David.Lopez@CERN.CH, David Lopez Mateos
+nmccoll@CERN.CH, Nickolas McColl
+christine@CLANMCLEAN.ORG, Christine McLean
+samuel.meehan@CERN.CH, Samuel Meehan
+David.W.Miller@UCHICAGO.EDU, David W. Miller
+nem46@CORNELL.EDU, Nathan Mirman
+mommsen@FNAL.GOV, Remi Mommsen
+alyssa.montalbano@STONYBROOK.EDU, Alyssa Rae Montalbano
+nicolas.morange@CERN.CH, Nicolas Morange
+david.michael.morse@CERN.CH, David Morse
+james.mulligan@YALE.EDU, James Mulligan
+samm0626@GMAIL.COM, Sam Mullin
+harisankar.namasivayam@CERN.CH, Harisankar Namasivayam
+andrew.james.nelson@CERN.CH, Andrew Nelson
+tknelson@SLAC.STANFORD.EDU, Timothy K Nelson
+poc@BNL.GOV, Paul O'Connor
+saehanseul.oh@YALE.EDU, Saehanseul Oh
+ojalvo@WISC.EDU, Isobel Ojalvo, Wisconsin
+t.orimoto@NEU.EDU, Toyoko Orimoto
+ilyao@FNAL.GOV, Ilya Osipenkov
+Sanjay.Padhi@CERN.CH, Sanjay Padhi, UCSD
+Yuriy.Pakhotin@CERN.CH, Yuriy Pakhotin
+parsa@BNL.GOV, Zohreh Parsa
+piacquad@SLAC.STANFORD.EDU, Giacinto Piacquadio
+jrpilot@UCDAVIS.EDU, Justin Pilot
+pleier@FNAL.GOV, Marc-Andre Pleier
+chris.pollard@DUKE.EDU, Chris Pollard
+Polychronakos@BNL.GOV, Venetios Polychronakos
+rpravahan@GMAIL.COM, Rishiraj Pravahan
+joern.putschke@WAYNE.EDU, Joern Putschke
+qianj@UMICH.EDU, Jianming Qian
+huilin.qu@CERN.CH, Huilin Qu
+aratti@LBL.GOV, Alessandro Ratti
+Kendall.Reeves@UTDALLAS.EDU, Kendall Reeves
+fsriccitam@UCDAVIS.EDU, Francesca Ricci-Tam
+richards@PA.MSU.EDU, Ron Richards
+clint.a.richardson@GMAIL.COM, Clint Richardson
+othmane.rifki@CERN.CH, Othmane Rifki
+mirena@CERN.CH, Mirena Ivova Rikova
+griley4@VOLS.UTK.EDU, Grant V. Riley
+ritchie@FNAL.GOV, Dave Ritchie
+flera@FNAL.GOV, Flera Rizatdinova
+rruchti@ND.EDU, Randy Ruchti, Notre Dame
+hrussell@CERN.CH, Heather Russell
+saltzberg@PHYSICS.UCLA.EDU, David Saltzberg
+tapas.sarangi@CERN.CH, Sarangi Tapas
+sawyer@PHYS.LATECH.EDU, Lee Sawyer
+Tim.Schuster@CERN.CH, Tim Schuster
+jsearcy1@GMAIL.COM, Jacob Searcy
+stanislavasevova2013@U.NORTHWESTERN.EDU, Stanislava Sevova
+anna.sfyrla@CERN.CH, Anna Sfyrla
+suyogs@IASTATE.EDU, Suyog Shrestha
+amithabh.shrinivas@CERN.CH, Amithabh Shrinivas
+louise.skinnari@CERN.CH, Louise Skinnari
+krzysztof.sliwa@TUFTS.EDU, Krzysztof Sliwa
+nikolai.smirnov@YALE.EDU, Nikolai Smirnov
+js344@SLAC.STANFORD.EDU, Jeffrey Smith
+snowball@CERN.CH, Matthew Snowball
+msokolof@CERN.CH, Michael D Sokoloff
+sosebee@UTA.EDU, Mark Sosebee
+david.southwick@CERN.CH, David Southwick
+Thomas.Speer@CERN.CH, Thomas Speer
+smaria@CALTECH.EDU, Maria Spiropulu
+brijesh@PURDUE.EDU, Brijesh K Srivastava
+dpstoker@UCI.EDU, David Stoker
+stone@PHYSICS.SYR.EDU, Sheldon Stone
+sturdy@CERN.CH, Jared Sturdy
+swanson@HEP.WISC.EDU, Joshua Swanson, Wisconsin
+tartaglia@FNAL.GOV, Mike Tartaglia
+dntaylor@WISC.EDU, Devin Taylor
+Lucas.Taylor@CERN.CH, Lucas Taylor
+vladlen@CALTECH.EDU, Vladlen Timciuc
+paul.tipton@YALE.EDU, Paul Tipton
+tollefson@PA.MSU.EDU, Kirsten Tollefson
+torrence@UOREGON.EDU, Eric Torrence
+tsybych@FNAL.GOV, Dmitri Tsybychev
+cgtully@PRINCETON.EDU, Chris Tully
+tuna@CERN.CH, Alexander Tuna
+tuts@NEVIS.COLUMBIA.EDU, Philip M Tuts
+gokhan.unel@CERN.CH, Gokhan Unel
+yazgan@CERN.CH, Yasemin Uzunefe-Yazgan
+vv07c@MY.FSU.EDU, Venkatesh Veeraraghavan
+velev@FNAL.GOV, Gueorgui Velev
+marta.verweij@CERN.CH, Marta Verweij
+mverzocc@FNAL.GOV, Marco Verzocchi
+fuquan.wang@CERN.CH, Fuquan Wang
+renjie.wang@CERN.CH, Ren-Jie Wang
+ma.x@CERN.CH, Chaowaroj Wanotayaroj
+gwatts@UW.EDU, Gordon Watts
+mweinberg2718@GMAIL.COM, Marc Weinberg
+steven.welch@CERN.CH, Steven Welch
+cawest@CERN.CH, Chris West
+james-wetzel@UIOWA.EDU, James Wetzel
+susan.white-depace@NUFO.ORG, Susan White-DePace
+miwilkin@SYR.EDU, Michael Kent Wilkinson
+winer@PHYSICS.OSU.EDU, Brian Winer
+darien@NEU.EDU, Darien Wood
+nwoods@HEP.WISC.EDU, Nate Woods
+sau.lan.wu@CERN.CH, Sau Lan Wu
+wyusheng@UMICH.EDU, Yusheng Wu
+hongtao.yang@CERN.CH, Hongtao Yang
+yarba@FNAL.GOV, Victor Yarba
+efe@FNAL.GOV, Efe Yazgan
+rpyohay@UCDAVIS.EDU, Rachel Yohay
+rik.yoshida@ANL.GOV, Rik Yoshida
+katie@FNAL.GOV, Katie Yurkewicz
